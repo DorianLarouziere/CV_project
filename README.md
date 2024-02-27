@@ -32,7 +32,7 @@ Before using the program, ensure you have the following installed:
 
 1. Run the program:
  ```
-   python3 pushCounting.py
+   python3 PushUpCounter.py
 ```
 
 
